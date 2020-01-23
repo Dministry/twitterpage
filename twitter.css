@@ -8,6 +8,8 @@ body{
     width: 50%;
     color: white;
     background-image: url(https://elbahy.000webhostapp.com/img/back-logo.png);
+    background-repeat: no-repeat;
+    
 
 }
 #content{
