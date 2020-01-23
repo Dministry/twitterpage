@@ -1,0 +1,86 @@
+body{
+    width: 100%;
+}
+
+#blue{
+    background-color: #1DA1F2;
+    float: left;
+    width: 50%;
+    color: white;
+    background-image: url(https://elbahy.000webhostapp.com/img/back-logo.png);
+
+}
+#content{
+    margin-top: 30%;
+    margin-left: 20%;
+    font-weight: 700;
+    font-size: 22px;
+}
+#content2{
+    margin-top: 20%;
+    margin-left: 20%;
+    font-weight: bold;
+}
+.column{
+float: left;
+  width: 50%;
+  padding: 10px;
+  height: 560px;
+}
+#white{
+    background-color: white;
+    float: right;
+    width: 50%;
+}
+#login1{
+    width: 80px;
+    padding: 10px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 280px;
+}
+#login{
+    width: 400px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+#signup{
+    width: 400px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+.footer{
+    list-style: none;
+    list-style-position: initial;
+    margin-left: 8px;
+    color: gray;
+    display: block;
+    text-align: center;
+    padding: 7px;
+    padding-top: 12px;
+    text-decoration: none;
+    float: left;
+    align-self: center;
+    font-size: 12px;
+    font-weight: 50;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer1{
+    height: 20px;
+    
+}
+a:link{
+    color: gray;
+}
+li a {
+    display: block;
+    text-align: center;
+    /* padding: 6px; */
+    text-decoration: none;
+  }
+  li {
+    float: left;
+  }
